@@ -7,7 +7,8 @@ const Card = ()=> {
         <>
     <h1> Card Info </h1>;
     <Evo/>
-    <LogoH/>
+    <LogoH 
+    LogoH="Logo Header"/>
     <TypeEffect/>
     </>
     )}

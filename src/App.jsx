@@ -13,7 +13,8 @@ const App =()=> {
     <>
       <Header/>
       <Home/>
-      <Footer/>
+      <Footer
+      Footer = "Footer Change"/>
       <Api/>
     </>
   );
