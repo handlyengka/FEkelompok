@@ -7,11 +7,16 @@ import Logo from "./Logo";
 const Header = () => {
     return(
     <>  
-      <Logo/>;
-      <Gen1/>;
-      <Gen2/>;
-      <Gen3/>;
-      <Gen4/>;
+      <Logo
+      Logo="Ganti Logo"/>;
+      <Gen1
+      Gen= "Generation 1"/>;
+      <Gen2
+      Gen= "Generation 2"/>;
+      <Gen3
+      Gen= "Generation 3"/>;
+      <Gen4
+      Gen= "Generation 4"/>;
     </>
 
     );
