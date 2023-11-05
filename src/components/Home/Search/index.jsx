@@ -1,5 +1,8 @@
-const Search = ()=> {
-    return <h1> Search</h1>;
-}
+const Search = ({Search})=> {
+    return (
+    <div><h1> {Search}</h1>;
+    </div>
+    );
+};
 
 export default Search;
