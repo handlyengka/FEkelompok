@@ -1,5 +1,9 @@
-const Gen1 = () => {
-    return<h1>Gen 1</h1>;
+const Gen1 = ({Gen}) => {
+    return(
+    <div>
+         <h1>{Gen}</h1>
+    </div>
+    );
 };
 
 export default Gen1;
