@@ -1,7 +1,5 @@
-const Footer = ({Footer})=> {
-    return(
-        <div> <h1> {Footer} </h1> </div>
-        );
-    };
+const Footer = ()=> {
+    return <h1> Footer </h1>;
+}
 
 export default Footer;
