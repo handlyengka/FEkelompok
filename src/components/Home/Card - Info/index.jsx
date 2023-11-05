@@ -6,10 +6,12 @@ const Card = ()=> {
     return (
         <>
     <h1> Card Info </h1>;
-    <Evo/>
-    <LogoH 
+    <Evo 
+    Evo ="Evolusi"/>
+    <LogoH
     LogoH="Logo Header"/>
-    <TypeEffect/>
+    <TypeEffect
+    Type="Effect Class"/>
     </>
     )}
 

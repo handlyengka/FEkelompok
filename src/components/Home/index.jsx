@@ -5,7 +5,8 @@ const Home = ()=> {
     return (
         <>
             <Card/>
-            <Search/>
+            <Search 
+            Search="Cari Saja Aku Ada"/>
         </>
     );
 };
