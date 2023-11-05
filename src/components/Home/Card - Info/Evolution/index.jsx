@@ -1,5 +1,5 @@
-const Evo = ()=> {
-    return <h1> Evolution </h1>;
+const Evo = ({Evo})=> {
+    return <h1> {Evo}</h1>;
 }
 
 export default Evo;
